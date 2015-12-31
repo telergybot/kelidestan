@@ -222,7 +222,7 @@ function create_config( )
     },
     sudo_users = {76303145},--Sudo users
     disabled_channels = {},
-    realm = {71065196},--Realms Id
+    realm = {81258708},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[kelidestan v 2.33.3
 
